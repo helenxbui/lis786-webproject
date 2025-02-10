@@ -3,23 +3,16 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
+![Image of manga mural from Unsplash](https://i.imgur.com/mqzUPRH.png)
 
-## This is what an h2 element looks like in Markdown
+*Learn what makes manga unique!*
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
+What is manga? It's a stylistic form of comic storytelling that originated in Japan, blending Western and Eastern influences. 
+According to Data Bridge Market Research, the manga market represents a dynamic and diverse segment of the global publishing industry, characterized by a rich array of genres and artistic styles. Manga has garnered international popularity, captivating readers of all ages with its compelling narratives, vibrant artwork, and unique storytelling in both print and digital formats. 
+The global manga market size is estimated to grow by USD 28.15 billion from 2025-2029, according to Technavio [Source:](https://finance.yahoo.com/news/manga-market-grow-usd-28-162800094.html "Yahoo! Finance"). Manga has become a global phenomenon worthy of academic study and research; this research guide will assist you on your manga journey by providing resources such as books, databases, and web resources of interest.
 
-- list item one
-- list item two
-- list item three
+This guide covers:   
 
-And here's an ordered (numbered) list:
-
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
-
-Make an edit here. 
+- Books
+- Databases
+- Other Resources
