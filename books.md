@@ -7,6 +7,7 @@ image_alt: Alt text goes here
 my_variable: This is a placeholder text that stands for a variable 
 ---
 Explore select print titles! These print resources were chosen and evaluated for the purpose of expanding the study, research, and creation of manga.
+
 {% include page-image.html %}
 
 <p><em>2022 Eisner Award Winner for Best Academic/Scholarly Work</em></p>
