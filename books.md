@@ -5,6 +5,7 @@ permalink: /books
 image_url: https://i.imgur.com/3NXCubq.jpeg
 my_variable: This is a placeholder text that stands for a variable. 
 ---
+{% include page-image.html %}
 Explore select print titles! These print resources were chosen and evaluated for the purpose of expanding the study, research, and creation of manga.
 
 <p><img src="{{ page.image_url }}" alt="Book cover of Comics and the Origins of Manga - A Revisionist History"></p>
