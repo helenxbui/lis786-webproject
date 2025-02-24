@@ -12,10 +12,13 @@ layout: home
     The global manga market size is estimated to grow by USD 28.15 billion from 2025-2029, according to Technavio (Source: <a href="https://finance.yahoo.com/news/manga-market-grow-usd-28-162800094.html">Yahoo Finance</a>).
     Manga has become a global phenomenon worthy of academic study and research; this research guide will assist you on your manga journey by providing resources such as books, databases, and web resources of interest.</p>
 
- <p>This guide covers:</p>   
-    <ul>
-        <li>Books</li>
-        <li>Databases</li>
-        <li>Other Resources</li>
-    </ul>
+ <h2>List of Contents</h2>
+ {% for study in site.studies %}
+    <!-- DO SOMETHING -->
+    <h3>{{ study.title }}</h3>
+    <p><img src="{{ study.category }}" alt="alt text" /></p>
+    <p>{{ study.content }}</p>
+    <p>Category: {{ study.category }}</p>
+
+ {% endfor %}
     

@@ -1,12 +1,12 @@
 title: Manga Research Guide
 theme: minima
 collections:
-  collection:
+  studies:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "studies"
     values:
-      layout: collection_item
+      layout: study
