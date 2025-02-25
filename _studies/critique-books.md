@@ -1,5 +1,5 @@
 ---
-title: Print Books
+title: Critique Books
 category: books
 image_url: https://i.imgur.com/x0qyuBl.png
 image_alt: Woman reading a book in a library setting. 
@@ -10,3 +10,4 @@ image_alt: Woman reading a book in a library setting.
 
 <p><em>Manga: A Critical Guide</em>, by Shige (CJ) Suzuki and Ronald Stewart, is a wide-ranging introductory guide to manga, helping readers explore the diversity of Japanese comic styles, forms, and traditions from its earliest texts to the internationally popular comics of the 21st century. The book covers: the history of Japanese comics from its earliest forms to the present, case studies reflecting the range of themes, genres, forms, and creators, key themes and contexts ranging from gender and sexuality to history and censorship, and critical approaches to manga, with definitions, biographies, reception, and global publishing contexts.</p>
 
+<p><em>Global Manga: 'Japanese' Comics without Japan?</em> is a new essay collection, edited by City University London’s Casey Brienza, on the “global cultural phenomenon” of comics that may be presented as manga but are not actually created in Japan. Outside Japan, the term ’manga’ usually refers to comics originally published in Japan. Yet nowadays many publications labelled ’manga’ are not translations of Japanese works but rather have been wholly conceived and created elsewhere. It presents an overview of the emergence of “original” (i.e., non-Japanese) manga, largely in response to market pressures and conditions. This essay provides working definitions of both “global manga” and “manga” in general, surveys the current state of “cultural production” of global manga around the world – in the U.S. and Canada, in Europe, and in South America, and approaches the underlying question of how to consider manga/global manga – as styles, as marketing functions or labels, or even as “tools” deployed in support of particular activities.</p>
