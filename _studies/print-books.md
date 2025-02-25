@@ -2,7 +2,7 @@
 title: Print Books
 category: books
 image_url: https://i.imgur.com/x0qyuBl.png
-image_alt: alt text here
+image_alt: Woman reading a book in a library setting. 
 ---
 {% include page-image.html %}
 
