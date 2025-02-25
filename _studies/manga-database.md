@@ -1,6 +1,6 @@
 ---
 title: Anime and Manga Studies Database
-category: database
+category: databases
 image_url: https://i.imgur.com/XCtG8NT.png
 image_alt: Screenshot of database homepage
 ---
