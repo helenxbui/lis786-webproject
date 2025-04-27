@@ -16,3 +16,13 @@ This guide covers:
 - Books
 - Databases
 - Other Resources
+
+<h2>List of Contents</h2>
+ {% for study in site.studies %}
+    <!-- DO SOMETHING -->
+    <h3>{{ study.title }}</h3>
+    <p><img src="{{ study.category }}" alt="alt text..." /></p>
+    <p>{{ study.content }}</p>
+    <p>Category: {{ study.category }}</p>
+
+ {% endfor %}
