@@ -10,7 +10,7 @@ Check out other resources can be used to look up information related to the topi
 {% for study in site.studies %}
 {% if study.category == 'resources' %}
 <h3>{{ study.title }}</h3>
-<p><img src="{{ study.category }}" alt="alt text..." /></p>
+<p><img src="{{ study.category }}" alt="" /></p>
 <p>{{ study.content }}</p>
 <p>Category: {{ study.category }}</p>
 {% endif %}
