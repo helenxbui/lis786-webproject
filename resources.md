@@ -3,7 +3,7 @@ title: Resources
 layout: page
 permalink: /resources
 ---
-Check out other resources can be used to look up information related to the topic of manga.
+Check out other resources for more information related to the topic of manga.
 
 {{ page.my_variable }}
 
